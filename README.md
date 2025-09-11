@@ -1,1 +1,1 @@
-![delta_ManimCE_v0.18.1](C:\Users\chuiy\PycharmProjects\pythonProject\media\videos\delta+\1080p60\delta_ManimCE_v0.18.1.gif)
+![delta_ManimCE](D:\Users\chuiy\Documents\GitHub\ChiryuhLii\delta_ManimCE.gif)
