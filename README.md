@@ -1,1 +1,1 @@
-![delta_ManimCE](D:\Users\chuiy\Documents\GitHub\ChiryuhLii\delta_ManimCE.gif)
+![delta_ManimCE](https://github.com/ChiryuhLii/ChiryuhLii/blob/main/delta_ManimCE.gif)
