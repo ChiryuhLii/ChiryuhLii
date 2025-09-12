@@ -1,7 +1,7 @@
 ![delta_ManimCE](https://github.com/ChiryuhLii/ChiryuhLii/blob/main/delta_ManimCE.gif)
 <p align="center">
 •<br>•<br>•<br>
-<b>技术栈及平台</b>
+<b>技术栈及平台</b>&nbsp;|&nbsp;<b>Tech-stack & Platforms</b>
 </p>
 <p align="center">
   <a href="https://www.python.org/"><img height="20" src="https://img.shields.io/badge/Python-🐍-white?logo=python&logoColor=3776AB&labelColor=EEEEEE" alt="Python"></a>
