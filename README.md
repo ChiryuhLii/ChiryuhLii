@@ -15,6 +15,7 @@
 <a href="https://mermaid.js.org/"><img height="20" src="https://img.shields.io/badge/Mermaid-📊-white?logo=mermaid&logoColor=F5C518&labelColor=EEEEEE" alt="Mermaid"></a><br>  
 <a href="https://github.com/ChiryuhLii/"><img height="24" src="https://img.shields.io/badge/GitHub-🐱-white?logo=github&logoColor=181717&labelColor=EEEEEE" alt="GitHub"></a>  
 <a href="https://space.bilibili.com/1781087204/"><img height="24" src="https://img.shields.io/badge/Bilibili-🍻-white?logo=bilibili&logoColor=00A1D6&labelColor=EEEEEE" alt="Bilibili"></a> 
-  <a href="https://obsidian.md/"><img height="20" src="https://img.shields.io/badge/Obsidian-📒-white?logo=obsidian&logoColor=483699&labelColor=EEEEEE" alt="Obsidian"></a>
+<a href="https://obsidian.md/"><img height="20" src="https://img.shields.io/badge/Obsidian-📒-white?logo=obsidian&logoColor=483699&labelColor=EEEEEE" alt="Obsidian"></a>
 <a href="https://qiuxiandongshou.com/"><img height="24" src="https://img.shields.io/badge/秋狝冬狩-🐯-white?logo=Timescale&logoColor=693f40&labelColor=EEEEEE" alt="秋狝冬狩"></a>
 </p>
+
